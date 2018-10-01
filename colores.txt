@@ -1,0 +1,5 @@
+#E6EFE9---fondo pagina
+
+#0E5313---footer y header
+
+#0A9B25-----sub footer
